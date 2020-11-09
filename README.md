@@ -7,10 +7,10 @@
 samples/sampleMNISTAPI/src
 
 # Modify path
-## CmakeLists.txt
-(1) 18/22/48 modify corresponding path
-## sampleMNISTAPI.cpp
-(1) 385  modify corresponding path
+### CmakeLists.txt
+(1) 18/22/48 line modify corresponding path
+### sampleMNISTAPI.cpp
+(1) 385 line  modify corresponding path
 
 # Compile code
   Step1: cd samples/sampleMNISTAPI
